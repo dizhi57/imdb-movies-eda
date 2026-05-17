@@ -13,7 +13,11 @@
 
 - `notebooks/01_imdb_movies_preprocessing.ipynb` — обзор и предобработка данных;
 - `notebooks/02_imdb_movies_eda.ipynb` — разведочный анализ данных;
-- `data/processed/movies_clean.csv` — очищенный датасет
+- `data/processed/movies_clean.csv` — очищенный датасет;
+- `reports/preprocessing_summary.md` — краткое описание этапа предобработки;
+- `reports/eda_summary.md` — основные выводы EDA;
+- `images/` — визуализации из анализа.
+- `images/comments_to_graphs` — комментарии к графикам
 
 ## Этап 1. Предобработка данных
 
