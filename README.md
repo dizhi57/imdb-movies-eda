@@ -12,8 +12,12 @@
 ## Структура проекта
 
 - `notebooks/01_imdb_movies_preprocessing.ipynb` — обзор и предобработка данных;
-- `notebooks/imdb_movies_eda.ipynb` — разведочный анализ данных;
-- `data/processed/movies_clean.csv` — очищенный датасет
+- `notebooks/02_imdb_movies_eda.ipynb` — разведочный анализ данных;
+- `data/processed/movies_clean.csv` — очищенный датасет;
+- `data/processed/movies_clean.xlsx` — очищенный датасет в Excel-формате;
+- `reports/preprocessing_summary.md` — краткое описание этапа предобработки;
+- `reports/eda_summary.md` — основные выводы EDA;
+- `images/` — визуализации из анализа.
 
 ## Этап 1. Предобработка данных
 
